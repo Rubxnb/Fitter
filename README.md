@@ -1,6 +1,6 @@
 # Fitter
 <div>
-  <img src="https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png" width="200px" align-content="cente"/>
+  <img src="https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png" width="200px" align-content="center"/>
  </div>
 
 ![Fitter-Logo](https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png)
