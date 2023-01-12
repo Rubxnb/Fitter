@@ -14,5 +14,8 @@ Incluye una gran cantidad de funciones útiles para facilitar al usuario el desa
 * Escáner QR para conocer qué ejercicios hacer con X material
 
 Dispone de una base de datos de Firebase.
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="200px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" width="200px"/> 
+ </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="200px"/>
