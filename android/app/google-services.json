@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875657037409",
+    "firebase_url": "https://fitter-5ffee-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fitter-5ffee",
+    "storage_bucket": "fitter-5ffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875657037409:android:17963a131f5733ddc74c20",
+        "android_client_info": {
+          "package_name": "com.example.fitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875657037409-8dv5hbjeinufin6tp6d4b5g4rv0am1b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT38LINtBilzbckybZF3jBGw5ujBsO7PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875657037409-8dv5hbjeinufin6tp6d4b5g4rv0am1b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
