@@ -1,5 +1,8 @@
 # Fitter
-<img src="https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png" width="200px"/>
+<div>
+  <img src="https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png" width="200px" align-content="cente"/>
+ </div>
+
 ![Fitter-Logo](https://raw.githubusercontent.com/Rubxnb/Fitter/master/assets/Fitter.png)
 Fitter es una aplicación móvil, desarrollada en Flutter, destinada al mundo del fitness, gimnasio o cualquier tipo de ejercicio.  
 Incluye una gran cantidad de funciones útiles para facilitar al usuario el desarrollo de su actividad:
